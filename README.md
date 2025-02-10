@@ -6,7 +6,7 @@ A **ApiRestProdutos** é uma API RESTful desenvolvida para gerenciar um catálog
 ## 🚀 Tecnologias Utilizadas
 - **Java** com **Spring Boot**
 - **Maven** para gerenciamento de dependências
-- **Banco de Dados** (MySQL, PostgreSQL ou outro configurável)
+- **Banco de Dados** (H2, MySQL, PostgreSQL ou outro configurável)
 - **Spring Data JPA** para persistência de dados
 - **Swagger** para documentação da API
 - **Postman** para testes de requisições
